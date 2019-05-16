@@ -2,9 +2,6 @@
 title: DNDemake
 timezone: UTC
 collections:
-  "-":
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
