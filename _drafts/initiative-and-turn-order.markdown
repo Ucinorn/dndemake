@@ -22,7 +22,7 @@ The biggest demake is removal, and in the case of initiative for speed checks, t
 
 The main effect this has is to remove the many edge cases, effects and buffs that influence initiative only, and rely instead on dexterity as a measure of all things speedy in a character. Not only does this make sense thematically, it allows us to throw away pages of initiative rules in favour of a core mechanic; skill checks.
 
-The only downside is losing the niche skills and effects that focus specifically on initiative, such as magical items, or class skills like those of Rangers. Given how rarely initiaitve is rolled, these effects are unlikely to be missed. In the event they are they can easily be replaced by advantage on speed based dexterity checks. 
+The only downside is losing the niche skills and effects that focus specifically on initiative, such as magical items, or class skills like those of Rangers. Given how rarely initiative is rolled, these effects are unlikely to be missed. In the event they are; they can easily be replaced by advantage on speed based dexterity checks. 
 
 The more complicated demake is not initiative rolls itself, but the nature and purpose what comes from them most of the time; turn order. Turn order is already a simple premise, and turn taking is a core part of many board games, 
 
