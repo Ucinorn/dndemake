@@ -67,15 +67,23 @@ We have two goals in dealing with spell slots:
 
 The first idea we will explore is seen elsewhere in the game in the form of attack rolls: a chance based difficult modifier based on the skill of the players versus the defense of the enemy.  In the case of this new rule this player is rolling their spellcasting ability against the level of the spell
 
-* When casting spells of a specific spell slot level, players must roll a d20 \+ their spellcasting modifier equal to or above that \*\*twice \*\*that level.
+* When casting spells of a specific spell slot level, players must beat a spellcasting check of  \*\*twice \*\* that spell level.
 
-* If the spellalready uses spellasting ability, use that if it't higher. 
+* If the spell already includes a spellcasting ability check, use whichever is higher. 
 
 * Any abilities or magical items that increase spell slots instead reduce the difficulty of casting spells of that level by 1
 
-* Stored spell slots just assume success.
+* Stored spell slots always succeed.
 
-The Power Spike Problem
+This change has a number of effects that fulfil our core goals, such as: 
+
+* **Remove** static tracking of spell slots between encounters and sessions
+
+* **Simplify** the decision making around spell use
+
+* Arguably paves the way for removal of another system: resting
+
+## The Power Spike Problem
 
 But surely, I can hear you say, this means spellcasters are OP now? If they can fire off high level spells all the time, thats over the top! And surely, I can hear you say, this means spellcasters are underpowered now! They can fail to cast a spell and waste a whole turn!
 
