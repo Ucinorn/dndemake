@@ -5,7 +5,7 @@ date: 2019-06-03 22:22:00 Z
 
 ## Summary
 
-The concept of Health Power ( or Points, if that's what you grew up with ) are  an intrinsitc part of RPG games fo all flavours, largely thanks to DnD. As a meas
+The concept of Health Power ( or Points, if that's what you grew up with ) are  a core part of RPG games of all flavours, largely thanks to DnD.
 
 ## Critique
 
@@ -26,14 +26,11 @@ There's been a long history of homebrew rules and on how to make the relatively 
 
 Unfortunately of these add complexity on what is already a pretty basic system; the opposite of what we want.  Instead we'll be looking to reduce the complexity even further, and hopefully bringing the concept of taking damage closer to reality in the process.  
 
-
-###
-
 ## Demake
 
-The demake here is to reduce damage dealt by an order of magnitude, and round all sources of damage to 1 or to points. This extends to HP as well as damage, meaning instead of a healthpool.
+The demake here is to reduce the complexity in dealing with granular HP and damage numbers. This is as simple as reducing everything by order of magnitude, and round all sources of damage to 1 or to points. This extends to HP as well as damage, meaning instead of a healthpool.
 
-This is also an opportunity to remove HP scaling from progression in the game, which
+This is also an opportunity to remove HP scaling from progression in the game, which in most cases scales linearly with level, for no net effect. Instead HP and damage increases come from actual improvements in the skills and capabilities of characters. Read more in the Level Scaling post.
 
 Note: this is a pretty big change, and implementing it means a big shift in focus in combat from maximising damage to maximising chance to hit. Re-implementing HP and damage into your game may cause more confusion than than normal for players who've gotten comfortable with the Demake style of play.
 
@@ -50,3 +47,5 @@ Note: this is a pretty big change, and implementing it means a big shift in focu
   * Setback - 1 HP
   * Dangerous - 3 HP
   * Deadly - 5 HP
+
+## Downsides
