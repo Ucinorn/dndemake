@@ -3,25 +3,36 @@ title: Spell Slots
 date: 2019-08-23 00:25:00 Z
 ---
 
-* Spell slots are an integral part of the game and are used by the majority of classes
 
-* Spell slots violate one of our core rules of simplification: the use of static number tracking and lookup tables
+# Summary
 
-  * The best way to simplify the use of spells slots for players is to reduce them down to a consistent global rule
+Spell slots are an integral part of the game and are used by the majority of classes
 
-  * Our goal is to reduce the complexity of spellcasting down to deciding which spell to cast where, not assessing the
 
-* Spell slots also introduce a whole host of complications for bth the player and dungeon master in playing and balancing the game respectively:
+## Critique
 
-  * Managing spell slots across time and encounters is a fully fledged resource management metagame that introduces lots of interesting strategic choices for players. It raised questions like:
+Spell slots are one of the biggest violators of our rules: the use of static number tracking and lookup tables.
 
-    * do I risk expending high level spell slots to ensure victory here, or save them for future threats?
+Despite this, spell slots and their counting are still a relativeanaging spell slots across time and encounters is a fully fledged resource management metagame that introduces lots of micro strategic choices for players. It raised questions like:
 
-    * What do I think will be the next opportunity to take a long rest will be?
+  * do I risk expending high level spell slots to ensure victory here, or save them for future threats?
 
-    * Do I upcast this low level spell to improve its effectiveness?
+  * What do I think will be the next opportunity to take a long rest will be?
 
-    * This battle might not last very long, this could be my only choice to use that cool spell I have.
+  * Do I upcast this low level spell to improve its effectiveness?
+
+  * This battle might not last very long, this could be my only choice to use that cool spell I have.
+
+Spell slots also introduce a whole host of complications for both the player and dungeon master in playing and balancing the game respectively:
+
+
+## Demake
+
+The best way to simplify the use of spells slots for players is to reduce them down to a consistent global rule. Our goal is to reduce the complexity of spellcasting down to deciding which spell to cast where, not assessing remaining slots. 
+
+## Rules
+
+*
 
   * For many players this is a core part of DnD and a large reason for its strategic depth: it makes spellcasters what they are. It encourages players to think beyond the immediate threat, and using a spell slot here or there can have consequences across hours of game time.
 
@@ -69,13 +80,13 @@ The first idea we will explore is seen elsewhere in the game in the form of atta
 
 * When casting spells of a specific spell slot level, players must beat a spellcasting check of  \*\*twice \*\* that spell level.
 
-* If the spell already includes a spellcasting ability check, use whichever is higher. 
+* If the spell already includes a spellcasting ability check, use whichever is higher.
 
 * Any abilities or magical items that increase spell slots instead reduce the difficulty of casting spells of that level by 1
 
 * Stored spell slots always succeed.
 
-This change has a number of effects that fulfil our core goals, such as: 
+This change has a number of effects that fulfil our core goals, such as:
 
 * **Remove** static tracking of spell slots between encounters and sessions
 
@@ -91,7 +102,7 @@ There's a number of reasons this ok from a balance perspective:
 
 * A typical DnD encounter lasts for less than 6 rounds total, meaning the actual opportunities to cast high-impact spells are limited.
 
-* 
+*
 
 * The frequency of high level spells equals a player's appetite for risk: although they could potentially get off one max level spell every turn, the odds of them doing so are low: the same was that a fighter has a low chance of hitting max damage with every one of their attacks
 
